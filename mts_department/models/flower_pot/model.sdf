@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<sdf version='1.7'>
+  <model name='flower_pot'>
+    <link name='link_0'>
+      <pose>0 0 0 0 -0 0</pose>
+      <gravity>1</gravity>
+      <visual name='visual'>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://flower_pot/meshes/flower_pot.dae</uri>
+            <scale>1.35 1.35 1.35</scale>
+          </mesh>
+        </geometry>
+        <transparency>0</transparency>
+        <cast_shadows>0</cast_shadows>
+      </visual>
+      <collision name='collision'>
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://flower_pot/meshes/flower_pot.stl</uri>
+            <scale>1.35 1.35 1.35</scale>
+          </mesh>
+        </geometry>
+      </collision>
+    </link>
+    <static>0</static>
+  </model>
+</sdf>

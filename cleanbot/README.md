@@ -1,0 +1,1 @@
+This package contains implementation of coverage path planning using the Opennav's Coverage Package.

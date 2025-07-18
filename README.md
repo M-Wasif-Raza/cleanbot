@@ -110,15 +110,11 @@ This custom environment allows CleanBot to perform autonomous navigation, mappin
 
 ---
 
-### 📸 Screenshots of the Gazebo World
+### 📸 Gazebo World Overview
 
-| Entrance View                        | Corridor View                        |
-|--------------------------------------|--------------------------------------|
-| ![Entrance](images/mts_dept_entrance.png) | ![Corridor](images/mts_dept_corridor.png) |
-
-| Classroom View                       | Top-Down View                        |
-|--------------------------------------|--------------------------------------|
-| ![Classroom](images/mts_dept_classroom.png) | ![Top-Down](images/mts_dept_topdown.png) |
+<p align="center">
+  <img src="media/mts_model.gif" alt="Gazebo World" width="600"/>
+</p>
 
 <!-- ## 📚 Documentation
 

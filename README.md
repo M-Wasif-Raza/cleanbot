@@ -3,16 +3,7 @@
 
 This repository contains the ROS2 Humble implementation of CleanBot: a modular and fully autonomous indoor cleaning robot capable of mapping unknown environments, navigating to specified rooms, and performing coverage path planning on selected area.
 
-<p align="center">
-  <a href="https://youtu.be/tr7fmP6a5_Y">
-    <img src="https://img.youtube.com/vi/tr7fmP6a5_Y/maxresdefault.jpg" 
-         alt="Watch the video"
-         width="600">
-  </a>
-</p>
-<p align="center">
-  <i>🎥 Watch the full project overview ☝️ </i>
-</p>
+📊 For complete overview please visit [here](https://www.canva.com/design/DAGnozmqtOQ/OSGvIO3hyjnvcSo0nQEhfw/watch?utm_content=DAGnozmqtOQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb44c85889c)
 
 
 ---

@@ -3,7 +3,14 @@
 
 This repository contains the ROS2 Humble implementation of CleanBot: a modular and fully autonomous indoor cleaning robot capable of mapping unknown environments, navigating to specified rooms, and performing coverage path planning on selected area.
 
-📊 For complete overview please visit [here](https://www.canva.com/design/DAGnozmqtOQ/OSGvIO3hyjnvcSo0nQEhfw/watch?utm_content=DAGnozmqtOQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb44c85889c)
+<p align="center">
+  <a href="https://youtu.be/tr7fmP6a5_Y" target="_blank">
+    <img width="600" height="400" src="https://img.youtube.com/vi/tr7fmP6a5_Y/0.jpg" alt="Watch the video" />
+  </a>
+</p>
+
+<p align="center"><strong> Watch the full project overview ☝️</strong></p>
+
 
 ---
 
@@ -12,7 +19,7 @@ This repository contains the ROS2 Humble implementation of CleanBot: a modular a
 CleanBot uses the following ROS2 packages:
 
 - **[Navigation2 (Nav2)](https://navigation.ros.org)** – For autonomous navigation, path planning, and control.  
-- **[Open Navigation's Nav2 Complete Coverage](https://github.com/OpenNavigation/opennav_coverage)** – For coverage path planning (Boustrophedon and Dubins paths).  
+- **[Open Navigation's Nav2 Complete Coverage](https://github.com/open-navigation/opennav_coverage)** – For coverage path planning (Boustrophedon and Dubins paths).  
 - **[SLAM Toolbox](https://github.com/SteveMacenski/slam_toolbox)** – For 2D mapping using LiDAR.  
 - **[SLAM-Frontier-Exploration](https://github.com/gjcliff/SLAM-Frontier-Exploration)** – For exploration of unknown environments in autonomous mapping mode.  
 
